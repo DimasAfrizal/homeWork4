@@ -4,9 +4,14 @@
 }
 
 .Container {
+  height: 670px;
+  width: 100%;
   background-color: black;
-  padding-top: 15px;
-  padding-bottom: 30px;
+}
+
+#imgArtist {
+  
+  margin-top:150px ;
 }
 
 #nameArtis {
